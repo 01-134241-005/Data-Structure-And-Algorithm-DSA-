@@ -4,21 +4,21 @@ Welcome to the **Data Structures and Algorithms (DSA)** repository! This reposit
 
 ##  Topics Covered
 
-Week 01: C++ Review
-Week 02: Stack ADT
-Week 03: Recursion
-Week 04: Queue ADT
-Week 05: Priority Queue ADT
-Week 06: Linked List ADT
-Week 07: Doubly Linked List ADT
-Week 08: Binary Tree ADT
-Week 09: Binary Search ADT
-Week 10: Graph ADT
-Week 11: Graph Searching & Traversing
-Week 12: Standard Template Library
-Week 13: Sorting Algorithms
-Week 14: Searching Algorithms
-Week 15: Hashing
+C++ Review ,
+Stack ADT  ,
+Recursion ,
+Queue ADT ,
+Priority Queue ADT  ,
+Linked List ADT  ,
+Doubly Linked List ADT  ,
+Binary Tree ADT   ,
+Binary Search ADT    ,
+Graph ADT   ,
+Graph Searching & Traversing   ,
+Standard Template Library   ,
+Sorting Algorithms   ,
+Searching Algorithms   ,
+Hashing   .
 - 
 
 
